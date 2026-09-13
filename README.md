@@ -33,5 +33,3 @@ In addition to the standard graph layout output (`.vna` file), the variants now 
 
 *For all other instructions, including how to build and standard usage, please see the `README.md` located inside each variant's folder.*
 =======
-
-# 
