@@ -1,6 +1,6 @@
 # Enhancing NNP-NET by Refined Graph Coarsening Strategies
 
-This repository contains the codebase for the Master's thesis of Jeroen van Houten (Utrecht University). It extends the original [NNP-NET](https://github.com/j-van-der-linden/NNP-NET) framework by implementing and evaluating four graph coarsening/subgraph extraction strategies to improve the quality and efficiency of NNP-NET.
+This repository contains the codebase for the Master's thesis of Jeroen van Houten (Utrecht University). It extends the original [NNP-NET](https://github.com/IlanHartskeerl/NNP-NET) framework by implementing and evaluating four graph coarsening/subgraph extraction strategies to improve the quality and efficiency of NNP-NET.
 
 ## Repository Structure
 
