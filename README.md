@@ -6,7 +6,7 @@ This repository contains four new variants of the NNP-NET graph layout algorithm
 
 ## The Variants
 
-The four variants explored in this repository are:
+The four variants are:
 
 1. **NNP-NET - Adaptive Solar System Collapsing (ASSC)**
 2. **NNP-NET - Edge Contraction (Extension)**
