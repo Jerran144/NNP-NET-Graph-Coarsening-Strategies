@@ -29,7 +29,4 @@ In addition to the standard graph layout output (`.vna` file), the variants now 
 - When running on a single file, the metrics are saved to `{input_filename}_results.csv`.
 - When running on a directory of graphs, the metrics are saved to `results.csv` in the specified output path.
 
----
-
 For all other instructions, including how to build and standard usage, please see the `README.md` located inside each variant's folder.
-=======
